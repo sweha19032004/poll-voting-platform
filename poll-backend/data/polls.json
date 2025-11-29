@@ -1,0 +1,38 @@
+[
+  {
+    "id": "mijx5vw0npn065lujh",
+    "question": "What's one thing you wish you had more of?",
+    "options": [
+      {
+        "text": "Money",
+        "votes": 0
+      },
+      {
+        "text": "Fame",
+        "votes": 1
+      }
+    ],
+    "totalVotes": 1,
+    "expiresAt": "2025-11-29T07:37:31.408Z",
+    "expired": true,
+    "createdAt": "2025-11-29T06:37:31.440Z"
+  },
+  {
+    "id": "mijtrv7boi2of9r3yhf",
+    "question": "Which is the most favourite fruits ?",
+    "options": [
+      {
+        "text": "Apple",
+        "votes": 1
+      },
+      {
+        "text": "Mango",
+        "votes": 0
+      }
+    ],
+    "totalVotes": 1,
+    "expiresAt": "2025-11-30T05:02:37.868Z",
+    "expired": false,
+    "createdAt": "2025-11-29T05:02:38.519Z"
+  }
+]
